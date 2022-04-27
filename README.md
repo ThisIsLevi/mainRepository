@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Levi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I am levi and I am 15 years old.
+I make some small program projects, because I want to be a web developper.
 
-<!---
-ThisIsLevi/ThisIsLevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thats all I hope you have a great day!
